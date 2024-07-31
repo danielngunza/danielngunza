@@ -35,7 +35,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/danielngunza/danielngunza/output/snake.svg" alt="Snake animation" />
 
 ###
 
